@@ -6,6 +6,7 @@
  * 
  * @copyright KASalgado 2011 - 2015
  * @author Kleber Salgado
+ * @revision KAS-Test
  * @version 1.0
  */
 class Session
